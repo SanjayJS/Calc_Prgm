@@ -31,9 +31,9 @@ int main()
 	int choice;	
 	printf("\nEnter your choice");
 	scanf("%d",&choice);
-	printf("\nEnter first number");
+	printf("\nEnter first number\n");
 	scanf("%d",&num1);
-	printf("\nEnter second number");
+	printf("\nEnter second number\n");
 	scanf("%d",&num2);
 	switch(choice)
 	{
