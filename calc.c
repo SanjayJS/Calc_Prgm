@@ -30,7 +30,7 @@ int main()
 	printf("\n5.Modulo");
 	int choice;	
 	printf("\nEnter your choice");
-	scanf("%d",&
+	scanf("%d",&choice);
 	printf("\nEnter first number");
 	scanf("%d",&num1);
 	printf("\nEnter second number");
