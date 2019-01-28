@@ -30,11 +30,11 @@ int main()
 	printf("\n5.Modulo");
 	int choice;	
 	printf("\nEnter your choice");
+	scanf("%d",&
 	printf("\nEnter first number");
 	scanf("%d",&num1);
 	printf("\nEnter second number");
 	scanf("%d",&num2);
-	scanf("%d",&choice);
 	switch(choice)
 	{
 		case 1: result=add(num1,num2);
